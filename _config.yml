@@ -26,7 +26,7 @@ github_username:  jacobmholt
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
